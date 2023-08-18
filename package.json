@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/JuzerShakir/loopstudio/issues"
   },
-  "homepage": "https://github.com/JuzerShakir/loopstudio#readme"
+  "homepage": "https://github.com/JuzerShakir/loopstudio#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.3.3"
+  }
 }
