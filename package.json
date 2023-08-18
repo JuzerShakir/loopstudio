@@ -1,0 +1,25 @@
+{
+  "name": "loopstudio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuzerShakir/loopstudio.git"
+  },
+  "keywords": [
+    "tailwind",
+    "css3",
+    "flex",
+    "grid"
+  ],
+  "author": "Juzer Shakir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuzerShakir/loopstudio/issues"
+  },
+  "homepage": "https://github.com/JuzerShakir/loopstudio#readme"
+}
